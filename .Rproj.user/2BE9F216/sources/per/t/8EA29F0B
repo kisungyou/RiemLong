@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538446917235.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2822550719",
+    "id" : "8EA29F0B",
+    "lastKnownWriteTime" : 1538447199,
+    "last_content_update" : 1538447199218,
+    "path" : "~/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+    "project_path" : "src/ExtrinsicKernelFunctions.cpp",
+    "properties" : {
+        "cursorPosition" : "629,2",
+        "docOutlineSize" : "230.94681140729688",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

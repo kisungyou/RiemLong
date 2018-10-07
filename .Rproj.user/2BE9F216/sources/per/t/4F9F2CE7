@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538604721908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "218390468",
+    "id" : "4F9F2CE7",
+    "lastKnownWriteTime" : 1538951373,
+    "last_content_update" : 1538951373709,
+    "path" : "~/Desktop/RiemLong/src/loader.cpp",
+    "project_path" : "src/loader.cpp",
+    "properties" : {
+        "cursorPosition" : "3,74",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

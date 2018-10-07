@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538951377189.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1701655146",
+    "id" : "3B5416C",
+    "lastKnownWriteTime" : 1538955144,
+    "last_content_update" : 1538955144408,
+    "path" : "~/Desktop/RiemLong/R/test.lizhen.R",
+    "project_path" : "R/test.lizhen.R",
+    "properties" : {
+        "cursorPosition" : "9,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

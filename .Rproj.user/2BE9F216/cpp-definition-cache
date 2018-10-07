@@ -1,0 +1,389 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "SubVec(arma::uvec, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SubVec#$@N@arma@C@Col>#i#I#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 36,
+                "name" : "SubVec(arma::vec, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SubVec#$@N@arma@C@Col>#d#I#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 64,
+                "name" : "AntiSubVec(arma::uvec, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@AntiSubVec#$@N@arma@C@Col>#i#I#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 126,
+                "name" : "AntiSubVec(arma::vec, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@AntiSubVec#$@N@arma@C@Col>#d#I#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 195,
+                "name" : "timesTwo(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@timesTwo#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 203,
+                "name" : "GaussKern(arma::vec, arma::vec, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@GaussKern#$@N@arma@C@Col>#d#S0_#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 229,
+                "name" : "FEuc(arma::vec, arma::mat, arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@FEuc#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S1_#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 276,
+                "name" : "FEuc2(arma::vec, arma::mat, arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@FEuc2#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S1_#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 342,
+                "name" : "FSphere(arma::vec, arma::mat, arma::mat, arma::vec, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@FSphere#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S1_#S0_#d#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 376,
+                "name" : "SpherePredict(arma::mat, arma::mat, arma::mat, arma::vec, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@SpherePredict#$@N@arma@C@Mat>#d#S0_#S0_#$@N@arma@C@Col>#d#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 413,
+                "name" : "SphereDist(arma::vec, arma::vec, arma::vec, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@SphereDist#$@N@arma@C@Col>#d#S0_#S0_#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 444,
+                "name" : "GetSphereMSE(arma::mat, arma::mat, arma::vec, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetSphereMSE#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Col>#d#d#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 478,
+                "name" : "SphereCrossValPredict(arma::mat, arma::mat, arma::mat, arma::vec, double, double, double, double, int, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@SphereCrossValPredict#$@N@arma@C@Mat>#d#S0_#S0_#$@N@arma@C@Col>#d#d#d#d#d#I#b#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 636,
+                "name" : "SphereCrossValPredictQuiet(arma::mat, arma::mat, arma::mat, arma::vec, double, double, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SphereCrossValPredictQuiet#$@N@arma@C@Mat>#d#S0_#S0_#$@N@arma@C@Col>#d#d#d#d#d#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 779,
+                "name" : "GetKernelWeights(arma::vec, arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetKernelWeights#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 810,
+                "name" : "GradientStep(arma::vec, arma::mat, arma::vec, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@GradientStep#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S0_#d#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 855,
+                "name" : "IntrinsicSphere(arma::vec, arma::mat, arma::mat, arma::vec, double, double, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@IntrinsicSphere#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S1_#S0_#d#d#d#d#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 909,
+                "name" : "IntrinsicPredict(arma::mat, arma::mat, arma::mat, arma::vec, double, double, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@IntrinsicPredict#$@N@arma@C@Mat>#d#S0_#S0_#$@N@arma@C@Col>#d#d#d#d#d#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 952,
+                "name" : "FSubspace(arma::vec, arma::mat, arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@FSubspace#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#S1_#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1006,
+                "name" : "ConwaySphereDistance(arma::mat, arma::mat, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ConwaySphereDistance#$@N@arma@C@Mat>#d#S0_#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1064,
+                "name" : "ConwayLowerSphereDistance(arma::mat, arma::mat, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ConwayLowerSphereDistance#$@N@arma@C@Mat>#d#S0_#I#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1131,
+                "name" : "SubspacePairDists(arma::mat, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SubspacePairDists#$@N@arma@C@Mat>#d#I#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1174,
+                "name" : "IntrinsicSphereCrossValPredict(arma::mat, arma::mat, arma::mat, arma::vec, double, double, double, double, int, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@IntrinsicSphereCrossValPredict#$@N@arma@C@Mat>#d#S0_#S0_#$@N@arma@C@Col>#d#d#d#d#d#I#b#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1332,
+                "name" : "KendallsExponentialMap_x(arma::cx_vec, arma::cx_vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@KendallsExponentialMap_x#$@N@arma@C@Col>#$@N@std@N@__1@C@complex>#d#S0_#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1364,
+                "name" : "KendallsLogMap_x(arma::cx_vec, arma::cx_vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@KendallsLogMap_x#$@N@arma@C@Col>#$@N@std@N@__1@C@complex>#d#S0_#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1398,
+                "name" : "GradientStepShape(arma::cx_vec, arma::cx_mat, arma::vec, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@GradientStepShape#$@N@arma@C@Col>#$@N@std@N@__1@C@complex>#d#$@N@arma@C@Mat>#S1_#$@N@arma@C@Col>#d#d#I#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1444,
+                "name" : "IntrinsicShape(arma::vec, arma::mat, arma::cx_mat, arma::cx_vec, double, double, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@IntrinsicShape#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#$@N@arma@C@Col>#S3_#d#d#d#d#I#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1498,
+                "name" : "IntrinsicPredictShape(arma::mat, arma::mat, arma::cx_mat, arma::cx_vec, double, double, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@IntrinsicPredictShape#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#$@N@arma@C@Col>#S2_#d#d#d#d#I#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1539,
+                "name" : "ConvertRealToComplex(arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@ConvertRealToComplex#$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1566,
+                "name" : "ConvertComplexToReal(arma::cx_mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@ConvertComplexToReal#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1596,
+                "name" : "ConvertComplexToReal(arma::cx_vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@ConvertComplexToReal#$@N@arma@C@Col>#$@N@std@N@__1@C@complex>#d#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1618,
+                "name" : "FShape(arma::vec, arma::mat, arma::cx_mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@FShape#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#d#"
+            },
+            {
+                "column" : 14,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1646,
+                "name" : "FPredictShape(arma::mat, arma::mat, arma::cx_mat, arma::cx_vec, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@FPredictShape#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#$@N@arma@C@Col>#S2_#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1687,
+                "name" : "GetShapeMSE(arma::cx_mat, arma::cx_mat, arma::cx_vec, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetShapeMSE#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#S0_#$@N@arma@C@Col>#S1_#d#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1738,
+                "name" : "IntrinsicShapeCrossValPredict(arma::mat, arma::mat, arma::cx_mat, arma::cx_vec, double, double, double, double, double, int, bool, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@IntrinsicShapeCrossValPredict#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#$@N@arma@C@Col>#S2_#d#d#d#d#d#I#b#d#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+                "kind" : 6,
+                "line" : 1900,
+                "name" : "FShapeCrossValPredict(arma::mat, arma::mat, arma::cx_mat, arma::cx_vec, double, double, double, double, int, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@FShapeCrossValPredict#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Mat>#$@N@std@N@__1@C@complex>#d#$@N@arma@C@Col>#S2_#d#d#d#d#I#b#"
+            }
+        ],
+        "file" : "/home/kisung/Desktop/RiemLong/src/ExtrinsicKernelFunctions.cpp",
+        "file_last_write" : 1538447199
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/loader.cpp",
+                "kind" : 6,
+                "line" : 13,
+                "name" : "loader(arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@loader#$@N@arma@C@Mat>#d#"
+            }
+        ],
+        "file" : "/home/kisung/Desktop/RiemLong/src/loader.cpp",
+        "file_last_write" : 1538951373
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/rcpparma_hello_world.cpp",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "rcpparma_hello_world",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpparma_hello_world#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/kisung/Desktop/RiemLong/src/rcpparma_hello_world.cpp",
+                "kind" : 6,
+                "line" : 30,
+                "name" : "rcpparma_outerproduct(const arma::colvec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpparma_outerproduct#&1$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/kisung/Desktop/RiemLong/src/rcpparma_hello_world.cpp",
+                "kind" : 6,
+                "line" : 38,
+                "name" : "rcpparma_innerproduct(const arma::colvec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpparma_innerproduct#&1$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/kisung/Desktop/RiemLong/src/rcpparma_hello_world.cpp",
+                "kind" : 6,
+                "line" : 47,
+                "name" : "rcpparma_bothproducts(const arma::colvec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpparma_bothproducts#&1$@N@arma@C@Col>#d#"
+            }
+        ],
+        "file" : "/home/kisung/Desktop/RiemLong/src/rcpparma_hello_world.cpp",
+        "file_last_write" : 1538446640
+    }
+]
